@@ -2,7 +2,7 @@ from typing import List
 
 import pytest
 
-from src.day3.assignment1 import (
+from src.aoc2025.day3.assignment1 import (
     process_file,
     find_special_character_positions,
     find_digit_sequences_with_positions,
