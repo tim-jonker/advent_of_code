@@ -17,6 +17,7 @@ scipy = "^1.11.4"
 sympy = "^1.12"
 pandas = "^2.3.3"
 scikit-learn = "^1.7.2"
+pulp = "^3.3.0"
 
 
 [build-system]
